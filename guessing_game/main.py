@@ -1,4 +1,4 @@
-from game import NumberGame
+from guessing_game.game import NumberGame
 
 
 def is_valid_input(user_input, min_num, max_num):
